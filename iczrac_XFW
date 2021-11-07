@@ -1,0 +1,51 @@
+vmess=groupb.chbjpw.mobi:60001, method=aes-128-gcm, password=35cf83c4-8719-470b-b011-8d0512b57687, fast-open=false, udp-relay=false, tag=翻墙党fanqiangdang.com
+
+vmess=mf-v3-in1-land.mianfei-node.top:443, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=wss, obfs-host=mf-v3-in1-land.mianfei-node.top, obfs-uri=/ushviageyavlyv5k, tls-verification=false, fast-open=false, udp-relay=false, tag=V3-印度1
+
+vmess=mf-v3-th1-land.mianfei-node.top:443, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=wss, obfs-host=mf-v3-th1-land.mianfei-node.top, obfs-uri=/mv2nmbgg0zbztr73, tls-verification=false, fast-open=false, udp-relay=false, tag=V3-泰国1
+
+vmess=mf-v3-ru1-land.mianfei-node.top:443, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=wss, obfs-host=mf-v3-ru1-land.mianfei-node.top, obfs-uri=/qptp4lsjuha4ueop, tls-verification=false, fast-open=false, udp-relay=false, tag=V3-俄罗斯1
+
+vmess=mf-v3-tr1-land.mianfei-node.top:443, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=wss, obfs-host=mf-v3-tr1-land.mianfei-node.top, obfs-uri=/rbuwg5ucloq0rymb, tls-verification=false, fast-open=false, udp-relay=false, tag=V3-土耳其1
+
+vmess=mf-v3-sg2.mianfei-node.top:47722, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-host=mf-sg2.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, fast-open=false, udp-relay=false, tag=V3-新加坡2
+
+vmess=mf-v3-sg1.mianfei-node.top:47721, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-host=mf-sg1.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, fast-open=false, udp-relay=false, tag=V3-新加坡1
+
+vmess=mf-v3-hk3.mianfei-node.top:47703, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-host=mf-hk4.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, fast-open=false, udp-relay=false, tag=V3-香港3
+
+vmess=mf-v3-hk2.mianfei-node.top:47702, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-host=mf-hk3.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, fast-open=false, udp-relay=false, tag=V3-香港2
+
+vmess=mf-v3-hk1.mianfei-node.top:47701, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-host=mf-hk2.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, fast-open=false, udp-relay=false, tag=V3-香港1
+
+vmess=mf-v1-us4.mianfei-node.top:49914, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-uri=/a0lkwtuaukpfzgtt, fast-open=false, udp-relay=false, tag=V1-美国4
+
+vmess=mf-v1-us3.mianfei-node.top:49913, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-uri=/a0lkwtuaukpfzgtt, fast-open=false, udp-relay=false, tag=V1-美国3
+
+vmess=mf-v1-us2.mianfei-node.top:49912, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-uri=/a0lkwtuaukpfzgtt, fast-open=false, udp-relay=false, tag=V1-美国2
+
+vmess=mf-v1-us1.mianfei-node.top:49911, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-uri=/a0lkwtuaukpfzgtt, fast-open=false, udp-relay=false, tag=V1-美国1
+
+vmess=mf-v1-tw3.mianfei-node.top:49903, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-uri=/pb6e30lyo86fcckb, fast-open=false, udp-relay=false, tag=V1-台湾3
+
+vmess=mf-v1-tw2.mianfei-node.top:49902, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-uri=/pb6e30lyo86fcckb, fast-open=false, udp-relay=false, tag=V1-台湾2
+
+vmess=mf-v1-tw1.mianfei-node.top:49901, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-uri=/pb6e30lyo86fcckb, fast-open=false, udp-relay=false, tag=V1-台湾1
+
+vmess=mf-v2-jp2.mianfei-node.top:48812, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=wss, obfs-host=mf-v2-jp2.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, tls-verification=false, fast-open=false, udp-relay=false, tag=V2-日本2
+
+vmess=mf-v0-hk1.mianfei-node.top:49920, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-host=mf-v0-hk1.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, fast-open=false, udp-relay=false, tag=试用-香港1
+
+vmess=mf-v2-jp1.mianfei-node.top:48811, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=wss, obfs-host=mf-v2-jp1.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, tls-verification=false, fast-open=false, udp-relay=false, tag=V2-日本1
+
+vmess=mf-v2-hk1.mianfei-node.top:443, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=wss, obfs-host=mf-v2-hk1.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, tls-verification=false, fast-open=false, udp-relay=false, tag=V2-香港1
+
+vmess=mf-v1-sg2.mianfei-node.top:49932, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-host=mf-sg2.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, fast-open=false, udp-relay=false, tag=V1-新加坡2
+
+vmess=mf-v1-sg1.mianfei-node.top:49931, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-host=mf-sg1.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, fast-open=false, udp-relay=false, tag=V1-新加坡1
+
+vmess=mf-v1-hk4.mianfei-node.top:49924, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-host=mf-hk4.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, fast-open=false, udp-relay=false, tag=V1-香港4
+
+vmess=mf-v1-hk3.mianfei-node.top:49923, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-host=mf-hk3.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, fast-open=false, udp-relay=false, tag=V1-香港3
+
+vmess=mf-v1-hk2.mianfei-node.top:49922, method=aes-128-gcm, password=06f6e811-648c-4721-a114-8cb3a6d77626, obfs=ws, obfs-host=mf-hk2.jufangchina.cn, obfs-uri=/pahoolcfnfnejosu, fast-open=false, udp-relay=false, tag=V1-香港2
